@@ -10,7 +10,7 @@ pathlib==1.0.1
 Pillow==7.1.1
 pycryptodome==3.9.7
 pyTelegramBotAPI==3.6.7
-requests==2.10.0
+requests==2.20.0
 six==1.14.0
 soupsieve==2.0
 tenacity==5.1.5
